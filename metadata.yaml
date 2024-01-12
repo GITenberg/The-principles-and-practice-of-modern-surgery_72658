@@ -1,0 +1,30 @@
+_repo: The-principles-and-practice-of-modern-surgery_72658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Park, Roswell
+    birthdate: 1852
+    deathdate: 1914
+    gutenberg_agent_id: '43922'
+    url: http://www.gutenberg.org/2009/agents/43922
+description: ''
+gutenberg_issued: '2024-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72658'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nnc2.ark:/13960/t11n8s821&view=1up&seq=20
+pgterms:marc905: 20200428030136park
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Brian Coe, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bLea Brothers & Co, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The principles and practice of modern surgery
+url: http://www.gutenberg.org/ebooks/72658
